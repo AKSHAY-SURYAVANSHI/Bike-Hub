@@ -1,0 +1,29 @@
+body {
+    margin-top: 0px;
+    background-image: url('images/locateus.jpeg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.main p {
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    color: white;
+    font-size: x-large;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);    
+}
+
+
+.main button{
+    position: absolute; 
+    top: 87.5%; 
+    left: 42%;
+    padding: 10px 15px 10px 10px;
+    font-size: large;
+}
+
+.main button i{
+    padding-left: 10px;
+}

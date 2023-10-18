@@ -1,0 +1,85 @@
+body {
+    background-image: url('images/bglogin.jpg');
+    background-color: rgba(0, 0, 0, 0.45);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    color: white; 
+}
+
+section{
+    padding-top: 80px;
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+
+form{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+form input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 150px;
+    margin-bottom: 15px;
+    background: transparent;
+    border-color: white;
+    border-width:2px solid;
+}
+
+::placeholder{
+    color:white;
+}
+
+form button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+    border-width: 0;
+    font-size:15px;
+    
+}
+
+.fa-angle-right{
+    padding-left: 5px;
+}
+
+.fgtpass a{
+    color: white;
+    font-size: larger;
+}  
+
+.createacc{
+    margin:0;
+    padding: 0;
+}
+
+.createacc h6{
+    background-color: none;
+    font-size: 35px;
+    text-align: center;
+  
+}
+
+.createacc button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-width: 0;
+    font-size: 15px;
+    margin-left: 600px;
+    margin-top: -120px; 
+}
+
+  

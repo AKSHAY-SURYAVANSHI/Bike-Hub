@@ -1,0 +1,33 @@
+.bike-container {
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .bike {
+    width: calc(25% - 20px); 
+    margin: 10px; 
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .bike img {
+    width: 350px;
+    height: 350px; 
+  }
+  
+  .bike a {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: black;
+    text-align: center;
+  }
+  

@@ -1,0 +1,22 @@
+.dark-mode > header{
+    background-color: black;
+    color: white;
+}
+
+.dark-mode >  header .right-container ul li a{
+    color: white;
+}
+
+.dark-mode .section .bikes-list ul li a{
+    background-color: black;
+    color:white
+}
+
+.dark-mode .section .bikes-list ul li{
+    background-color: black;
+    color:white
+}
+
+.dark-mode .section p {
+    background-color: black;
+}
