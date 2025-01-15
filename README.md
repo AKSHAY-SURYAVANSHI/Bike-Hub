@@ -33,6 +33,5 @@ We welcome contributions from motorcycle enthusiasts who share our passion for t
 
 ## Demo
 
-To get started, you can access the live demo of the application : 
- https://akshay-suryavanshi.github.io/motorcycle-themed-website-/
+To get started, you can access the live demo of the application : https://bike-hub-five.vercel.app/
 
